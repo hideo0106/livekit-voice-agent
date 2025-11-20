@@ -161,7 +161,7 @@ Regional SIP Configuration:
 1. **Clone and navigate to the repository:**
 
 ```bash
-git clone https://github.com/danieladdisonorg/livekit-voice-agent.git
+git clone https://github.com/hideo0106/livekit-voice-agent.git
 cd livekit-voice-agent
 ```
 
